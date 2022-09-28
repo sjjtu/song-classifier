@@ -9,6 +9,7 @@ pandas = "*"
 tensorflow = "*"
 matplotlib = "*"
 sklearn = "*"
+notebook = "*"
 
 [dev-packages]
 
