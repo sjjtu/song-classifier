@@ -9,7 +9,11 @@ pandas = "*"
 tensorflow = "*"
 matplotlib = "*"
 sklearn = "*"
+<<<<<<< HEAD
 h5py = "*"
+=======
+notebook = "*"
+>>>>>>> 5cf542cbde55aa47004e4d9335e26fdf03affa3c
 
 [dev-packages]
 
