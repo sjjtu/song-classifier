@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 #Extract data
 data = pd.read_csv("./data/project_train.csv")
+print(data)
 inputs = data.iloc[:,:11]
 labels = data.iloc[:,11]
 
